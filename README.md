@@ -32,3 +32,5 @@ The user interface for the AI-Chatbot web application should include the followi
 3. Chatbot Responses: Display the responses from the chatbot, including text messages, images, links, etc.
 4. User Interaction: Provide buttons, quick replies, or other interactive elements for users to easily interact with the chatbot and provide input.
 5. Responsiveness: Ensure that the user interface is responsive and works well on different devices and screen sizes.
+
+   [Here is the Figma File](https://www.figma.com/file/kanv44Sf784x2XLsC6mqBO/Reli.ai?type=design&node-id=0%3A1&mode=design&t=wr9qbxteYiL1soWE-1) 
